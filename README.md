@@ -1,5 +1,4 @@
-# LD38
-Tiny Parkour Guy for Ludum Dare 38
+# Tiny Parkour Guy for Ludum Dare 38
 
 https://www.youtube.com/watch?v=WSm8TVmkjbs
 
