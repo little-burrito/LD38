@@ -8,9 +8,8 @@ The tiny parkour dude is fairly impressive. Unfortunately for him though, he's n
 ---
 
 ### Controls
-Control the hand - Mouse
-
-Quit the game - Alt+F4 / Cmd+Q / Is there a universal shortcut to close programs across Linux distros?
+- Control the hand - Mouse
+- Quit the game - Alt+F4 / Cmd+Q / Is there a universal shortcut to close programs across Linux distros?
 
 ---
 
